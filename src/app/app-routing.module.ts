@@ -3,6 +3,10 @@ import { Routes, RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 
+/**
+ * Change to the code test!
+ */
+
 const routes: Routes = [
   {
     path: '',
